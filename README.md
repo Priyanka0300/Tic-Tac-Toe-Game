@@ -21,4 +21,4 @@ This project focuses on implementing game logic without any graphical user inter
 ## ▶️ How to Run
 1. Clone this repository:
    ```bash
-git clone https://github.com/Priyanka0300/Tic-Tac-Toe-Game.git
+   git clone https://github.com/Priyanka0300/Tic-Tac-Toe-Game.git
